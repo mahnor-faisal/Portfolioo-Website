@@ -16,5 +16,9 @@
   "bugs": {
     "url": "https://github.com/mahnor-faisal/Portfolioo-Website/issues"
   },
-  "homepage": "https://github.com/mahnor-faisal/Portfolioo-Website#readme"
+  "homepage": "https://github.com/mahnor-faisal/Portfolioo-Website#readme",
+  "devDependencies": {
+    "htmlhint": "^1.1.4",
+    "stylelint": "^16.13.2"
+  }
 }
